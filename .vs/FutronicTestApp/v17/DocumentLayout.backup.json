@@ -1,0 +1,68 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Duban Motato\\Documents\\PruebaBio\\FutronicTestApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9E89B7B1-8AD8-4FBA-8B1B-D1118A808D75}|FutronicTestApp.csproj|c:\\users\\duban motato\\documents\\pruebabio\\futronictestapp\\vista\\enrolarform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E89B7B1-8AD8-4FBA-8B1B-D1118A808D75}|FutronicTestApp.csproj|solutionrelative:vista\\enrolarform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E89B7B1-8AD8-4FBA-8B1B-D1118A808D75}|FutronicTestApp.csproj|C:\\Users\\Duban Motato\\Documents\\PruebaBio\\FutronicTestApp\\biometrico\\futronichelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E89B7B1-8AD8-4FBA-8B1B-D1118A808D75}|FutronicTestApp.csproj|solutionrelative:biometrico\\futronichelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E89B7B1-8AD8-4FBA-8B1B-D1118A808D75}|FutronicTestApp.csproj|C:\\Users\\Duban Motato\\Documents\\PruebaBio\\FutronicTestApp\\vista\\enrolarform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{9E89B7B1-8AD8-4FBA-8B1B-D1118A808D75}|FutronicTestApp.csproj|solutionrelative:vista\\enrolarform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EnrolarForm.cs",
+              "DocumentMoniker": "C:\\Users\\Duban Motato\\Documents\\PruebaBio\\FutronicTestApp\\Vista\\EnrolarForm.cs",
+              "RelativeDocumentMoniker": "Vista\\EnrolarForm.cs",
+              "ToolTip": "C:\\Users\\Duban Motato\\Documents\\PruebaBio\\FutronicTestApp\\Vista\\EnrolarForm.cs",
+              "RelativeToolTip": "Vista\\EnrolarForm.cs",
+              "ViewState": "AgIAAC8AAAAAAAAAAAAmwD8AAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-23T17:21:25.296Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "EnrolarForm.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Duban Motato\\Documents\\PruebaBio\\FutronicTestApp\\Vista\\EnrolarForm.cs",
+              "RelativeDocumentMoniker": "Vista\\EnrolarForm.cs",
+              "ToolTip": "C:\\Users\\Duban Motato\\Documents\\PruebaBio\\FutronicTestApp\\Vista\\EnrolarForm.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Vista\\EnrolarForm.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-23T17:21:19.567Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FutronicHelper.cs",
+              "DocumentMoniker": "C:\\Users\\Duban Motato\\Documents\\PruebaBio\\FutronicTestApp\\Biometrico\\FutronicHelper.cs",
+              "RelativeDocumentMoniker": "Biometrico\\FutronicHelper.cs",
+              "ToolTip": "C:\\Users\\Duban Motato\\Documents\\PruebaBio\\FutronicTestApp\\Biometrico\\FutronicHelper.cs",
+              "RelativeToolTip": "Biometrico\\FutronicHelper.cs",
+              "ViewState": "AgIAAC4AAAAAAAAAAAAgwAgAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-23T16:53:20.042Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
